@@ -1,16 +1,18 @@
-### Hi there 👋
+## 💜 Olá, meu nome é <strong>Matheus Eduardo!</strong>
 
-<!--
-**Dukaah/Dukaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Ma chamo Matheus, também conhecido como Duka. Estou estudando e aprimorando meus conhecimentos em HTML5 e CSS3 no momento.
 
-Here are some ideas to get you started:
+🔭 Estou desenvolvendo um site como desafio por parte da Codewell, ele se encontra disponível nos meus repositórios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Caso queira entrar em contato por qualquer motivo que seja: matheuseduardo27@gmail.com ou (11) 94159-5531
+
+----
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
