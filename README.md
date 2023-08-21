@@ -4,7 +4,7 @@
 
 🔭 Estou desenvolvendo um site como desafio por parte da Codewell, ele se encontra disponível nos meus repositórios.
 
-💬 Caso queira entrar em contato por qualquer motivo que seja: matheuseduardo27@gmail.com ou (11) 94159-5531
+💬 Caso queira entrar em contato por qualquer motivo que seja: dukah.dev@gmail.com ou (11) 94159-5531
 
 ----
 
