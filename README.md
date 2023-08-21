@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Matheus Eduardo!</strong>
 
-> Ma chamo Matheus, também conhecido como Duka. Estou estudando e aprimorando meus conhecimentos em HTML5 e CSS3 no momento.
+> Me chamo Matheus, também conhecido como Duka. Estou estudando e aprimorando meus conhecimentos em HTML5 e CSS3 no momento.
 
 🔭 Estou desenvolvendo um site como desafio por parte da Codewell, ele se encontra disponível nos meus repositórios.
 
