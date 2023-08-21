@@ -10,7 +10,7 @@
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=,html,css,js)](https://skills.thijs.gg)
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
